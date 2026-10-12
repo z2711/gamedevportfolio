@@ -11,13 +11,13 @@
 # [SpaceGame]
 
 ## Game Overview
-[Collision based game containing power-ups and projectiles]
+Collision based game containing power-ups and projectiles
 
 ## How to Run
 Built with Processing.
-Processing version: [4.8.1]
-Main sketch and project folder: [ShapeGame]
-Required libraries, if any: [Sound- by processing. org and Gif-animation]
+Processing version: 4.8.1
+Main sketch and project folder: ShapeGame
+Required libraries, if any: Sound- by processing. org and Gif-animation
 
 [Explain how to open and run the project.]
 
